@@ -1,1 +1,1 @@
-# Java-Chess
+# Chess-Project
